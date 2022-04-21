@@ -4,6 +4,8 @@ Name/Title: Who is the real power house?
 An explorative analysis of global energy production by Nick, Mike, Aline & Carly
 
 Topic Elaboration:
+
+
 Data Type: International Energy Sector
 Base Data Source: https://datasets.wri.org/dataset/globalpowerplantdatabase
 
