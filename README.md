@@ -27,4 +27,8 @@ COP26 agreements, counties agreements vs what power they use. - Need to find COP
 Compare renewable energy output with non renewable output.
 Compare renewable energy outputs within the renewable sector.
 
-Summary of Our Findings:
+## Summary of Our Findings:
+
+ *
+ *
+ *
