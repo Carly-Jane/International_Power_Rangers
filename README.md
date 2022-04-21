@@ -4,6 +4,9 @@ Name/Title: Who is the real power house?
 An explorative analysis of global energy production by Nick, Mike, Aline & Carly
 
 Topic Elaboration:
+It’s a power-hungry world that we live in. Everyone needs it to live but how do we make it?
+The answer is powerplants, and lots of them! 
+In this analysis we will deep dive into how the world produces its power. who produces the most and who is the cleanest, we will see how developed countries stack up against developing in their production and their sustainability
 
 
 Data Type: International Energy Sector
