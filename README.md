@@ -90,4 +90,4 @@ The two most popular non renewable energy sources in developing countries are co
 
 Overall, it seems that the world has moved towards producing energy more sustainably by using more renewable fuel sources to run their power plants. 
 
-Looking at the current global power shortage will what we have been doing so far be enough for everyone to keep using power as we currently do?
+Looking at the current global power shortages, will what we have been doing so far be enough for everyone to keep using power as we currently do?
