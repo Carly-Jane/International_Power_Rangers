@@ -29,13 +29,14 @@ In this analysis we will take dive into how the world produces its power. Who pr
 
 ## Summary of Findings:
 
-### What are the most commonly used power sources gloably?
+### What are the most commonly used power sources globaly?
 Hydro and Solar were the two most predominant fuel sources for power plants for both developing and developed countries.
 
 The top 3 fuel sources for power plants globally were all renewable sources.  (Solar: 30.6%, Hydro: 20.5% and Wind: 15.3%)
 
 Coal, Gas and Oil combined made up less the 25% of global power plant fuel sources which means Solar alone is used 5% more than these world-wide as a fuel source for powerplants.
 
+https://github.com/Carly-Jane/International_Power_Rangers/blob/main/Final_Visualizations/Developed%20PieChart.png
 <img scr="Final_Visualizations\Developed PieChart.png" >
 
 <img scr="Final_Visualizations\Developing PieChart.png" >
