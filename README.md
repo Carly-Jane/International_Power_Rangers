@@ -36,16 +36,16 @@ The top 3 fuel sources for power plants globally were all renewable sources.  (S
 
 Coal, Gas and Oil combined made up less the 25% of global power plant fuel sources which means Solar alone is used 5% more than these world-wide as a fuel source for powerplants.
 
-![](https://github.com/Carly-Jane/International_Power_Rangers/blob/main/Final_Visualizations/Developed%20PieChart.png]
-![Pie](Final_Visualizations\Developed PieChart.png)
 
-![]("Final_Visualizations\Developing%20PieChart.png")
+![PieChartDeveloped](Final_Visualizations/Developed PieChart.png)
+
+![PieChartDeveloping]("Final_Visualizations/Developing PieChart.png")
 
 
 ### Do developing or developed nations produce more power per capita?
 
 
-<img scr="Final_Visualizations\PercentageOfDevelopedVsDevelopingCountries.png" >
+![PercentageOfDevelopedVSDeveloping](Final_Visualizations\PercentageOfDevelopedVsDevelopingCountries.png)
 
 <img scr="Final_Visualizations\PowerCapacityAndGNIRelationship.png" >
 
