@@ -56,7 +56,7 @@ Comparing developed and developing countries primary fuel source shows that both
 
 Developed countries have more than double the number of solar plants compared to developing countries. This trend is also seen throughout the other renewable fuel sources.
 
-<img scr="Final_Visualizations\Primary Fuel Comparison Chart.png" >
+![]"Final_Visualizations\Primary Fuel Comparison Chart.png" >
 
 
 ### Google Map APIs
