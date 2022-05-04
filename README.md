@@ -39,13 +39,13 @@ Coal, Gas and Oil combined made up less the 25% of global power plant fuel sourc
 
 ![PieChartDeveloped](Final_Visualizations/Developed PieChart.png)
 
-![PieChartDeveloping]("Final_Visualizations/Developing PieChart.png")
+![PieChartDeveloping](Final_Visualizations/Developing PieChart.png)
 
 
 ### Do developing or developed nations produce more power per capita?
 
 
-![PercentageOfDevelopedVSDeveloping](Final_Visualizations\PercentageOfDevelopedVsDevelopingCountries.png)
+![PercentageOfDevelopedVSDeveloping](Final_Visualizations/PercentageOfDevelopedVsDevelopingCountries.png)
 
 <img scr="Final_Visualizations\PowerCapacityAndGNIRelationship.png" >
 
