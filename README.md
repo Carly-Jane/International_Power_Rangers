@@ -36,7 +36,7 @@ The top 3 fuel sources for power plants globally were all renewable sources.  (S
 
 Coal, Gas and Oil combined made up less the 25% of global power plant fuel sources which means Solar alone is used 5% more than these world-wide as a fuel source for powerplants.
 
-![]https://github.com/Carly-Jane/International_Power_Rangers/blob/main/Final_Visualizations/Developed%20PieChart.png
+![https://github.com/Carly-Jane/International_Power_Rangers/blob/main/Final_Visualizations/Developed%20PieChart.png]
 <img scr="Final_Visualizations\Developed PieChart.png" >
 
 <img scr="Final_Visualizations\Developing PieChart.png" >
